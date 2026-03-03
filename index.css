@@ -7,10 +7,13 @@
 
 h1, h2 {
   text-align: center;
+  max-width: 20ch;
+  margin-inline: auto;
+  text-decoration-line: blink;
 }
 
 header {
-  margin-top: -6rem;
+  margin-top: -0rem;
   margin-bottom: 3.5rem;
 }
 
