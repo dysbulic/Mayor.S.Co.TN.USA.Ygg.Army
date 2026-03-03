@@ -71,18 +71,18 @@
           <path
              id="path88-2"
              d="m 1178.2499,243.26164 -67.5195,-27.52684 c -13.3065,-5.44668 -19.6488,-20.64783 -14.2736,-33.88441 l 27.5268,-67.5195 c 5.4467,-13.30653 20.6478,-19.648852 33.8844,-14.27364 l 67.5195,27.52684 c 13.3065,5.44668 19.6489,20.64783 14.2737,33.88441 l -27.5269,67.5195 c -5.3752,13.23659 -20.5779,19.72032 -33.8844,14.27364 z m -23.794,-134.96745 c -8.6597,-3.55813 -18.6757,0.64778 -22.1639,9.37891 l -27.5268,67.5195 c -3.5582,8.65966 0.6478,18.67566 9.3789,22.16384 l 67.5195,27.52685 c 8.6596,3.55813 18.6756,-0.64778 22.1638,-9.37891 l 27.5269,-67.5195 c 3.5581,-8.65966 -0.6478,-18.67566 -9.3789,-22.16385 z"
-             style="fill:#241e90;fill-opacity:1;stroke:#f6e8ff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+             style="fill:#241e90;fill-opacity:1;stroke:#ecedf5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
           <path
              d="m 1153.9148,108.84129 c -8.6975,-3.46497 -18.6677,0.84838 -22.0619,9.61651 l -26.7992,67.81161 c -3.4648,8.69749 0.8485,18.66762 9.6167,22.0618 l 67.8115,26.79935 c 8.6974,3.46483 18.6677,-0.84853 22.0618,-9.61666 l 26.7993,-67.81154 c 3.4648,-8.69741 -0.8485,-18.66762 -9.6166,-22.06172 z"
              id="path96-3-9"
              style="fill:#ecdbdb;fill-opacity:1" />
           <g
              id="g93"
-             style="fill:#241e90;fill-opacity:1;stroke-width:4.6;paint-order:stroke fill markers"
+             style="fill:#241e90;fill-opacity:1;stroke-width:4.6;paint-order:stroke fill markers;stroke:#ecedf5;stroke-opacity:1"
              transform="translate(-20.752047,0.38429716)">
             <path
                id="polygon92"
-               style="clip-rule:evenodd;fill:#241e90;fill-opacity:1;fill-rule:evenodd"
+               style="clip-rule:evenodd;fill:#241e90;fill-opacity:1;fill-rule:evenodd;stroke:#ecedf5;stroke-opacity:1"
                class="st1"
                d="M 1167.6182,245.63065 1171.3,235.2 l -13.8,-6.1 -7.4049,17.4298 z"
                sodipodi:nodetypes="ccccc" />
